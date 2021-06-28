@@ -1,5 +1,10 @@
 ### Hi there 👋
 I am an eleven years of development experience with knowledge of Java, Python/Django, Android, JS (Angular and Vue), NCL and LUA, among others. Working in self-managing teams with experience in applying agile development methodologies. Proactive, communicative and goal-oriented, available for travel.
+<br>
+## Connect with me
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eduardo-matos-79759721/)
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/eduardomatos66)
+
 <!--- 🔭 Working on multiple frontend and backend project using React and Nodejs
 - 🌱 Learning design patterns in depth
 <br>
