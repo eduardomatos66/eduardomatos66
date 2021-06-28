@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am an eleven years of development experience with knowledge of Java, Python/Django, Android, JS (Angular and Vue), NCL and LUA, among others. Working in self-managing teams with experience in applying agile development methodologies. Proactive, communicative and goal-oriented, available for travel.
+I am an eleven years of development experience with knowledge of Java, Python/Django, Android, JS (AngularJS and Vue), NCL and LUA, among others. Working in self-managing teams with experience in applying agile development methodologies. Proactive, communicative and goal-oriented, available for travel.
 <br>
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eduardo-matos-79759721/)
@@ -8,9 +8,20 @@ I am an eleven years of development experience with knowledge of Java, Python/Dj
 <br>
 <br>
 ## Expertise
-<img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
-<!--
-<img align="left" alt="python" src="https://img.shields.io/badge/python%20-ffdf76.svg?&style=for-the-badge&logo=python&logoColor=776ab" />
+<img align="left" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow" />
+<img align="left" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white />
+<img align="left" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img align="left" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
+<img align="left" alt="LUA" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+<img align="left" alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+<img align="left" alt="AngularJS" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
+<img align="left" alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
+<img align="left" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img align="left" alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+<img align="left" alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+<img align="left" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img align="left" alt="Microsoft" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" />
+
 <!--- 🔭 Working on multiple frontend and backend project using React and Nodejs
 - 🌱 Learning design patterns in depth
 <br>
