@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-### Hello World 👋
 I am an eleven years of development experience with knowledge of Java, Python/Django, Android, JS (Angular and Vue), NCL and LUA, among others. Working in self-managing teams with experience in applying agile development methodologies. Proactive, communicative and goal-oriented, available for travel.
 <!--- 🔭 Working on multiple frontend and backend project using React and Nodejs
 - 🌱 Learning design patterns in depth
