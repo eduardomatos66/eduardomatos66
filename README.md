@@ -9,7 +9,8 @@ I am an eleven years of development experience with knowledge of Java, Python/Dj
 <br>
 ## Expertise
 <img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
-<img align="left" alt="Python" src="https://img.shields.io/badge/python%20-ffdf76.svg?&style=for-the-badge&logo=python&logoColor=776ab" />
+<!--
+<img align="left" alt="python" src="https://img.shields.io/badge/python%20-ffdf76.svg?&style=for-the-badge&logo=python&logoColor=776ab" />
 <!--- 🔭 Working on multiple frontend and backend project using React and Nodejs
 - 🌱 Learning design patterns in depth
 <br>
